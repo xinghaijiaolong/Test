@@ -13,6 +13,6 @@ public class MainActivity extends Activity {
         int a=5;
         String str="hello";
         String mm="cccwwwww";
-
+        int aw=7;
     }
 }
